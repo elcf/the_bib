@@ -4,7 +4,7 @@ This is the main.bib used in my papers. The topics are primarily of planing hull
 ## Usage
 This .bib file is managed with [JabRef](https://www.jabref.org/).
 
-Use in a LaTeX with BibTeX:
+Use in a LaTeX document with BibTeX:
 
 ```latex
 \begin{document}
